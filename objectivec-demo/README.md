@@ -9,7 +9,7 @@
 OpentTelemetryProtocolExporter
 ```
 
-- https://github.com/aliyun-sls/opentelemetry-objc-extension （选择1.0.0版本），勾选所需的Package Products：
+- 在搜索框中输入 https://github.com/aliyun-sls/opentelemetry-objc-extension （选择1.0.0版本），勾选所需的Package Products：
 
 ```
 OpentTelemetryApiObjc
