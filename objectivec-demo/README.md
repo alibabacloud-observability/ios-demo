@@ -17,6 +17,7 @@ OpentTelemetryProtocolExporterObjc
 OpentTelemetrySdkObjc
 ResourceExtensionObjc
 StdoutExporterObjc
+URLSessionInstrumentationObjc
 ```
 
 ### 步骤二： 创建OpenTelemetry初始化工具类
